@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FAD10K0/1683413?gclsrc=aw.ds&gad_source=4&gad_campaignid=20682878391&gbraid=0AAAAADrbLlhACTW_1qMHcIyEKL29vXxCE&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNZIW0HDyogUVAa0LEuEqIPE6k3Nx6h3xoEP_TbeWrkrutTKSRaqHf4aAlsIEALw_wcB) | the starbie | 1 | $0.10 | $0.10 | [digikey](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FAD10K0/1683413?gclsrc=aw.ds&gad_source=4&gad_campaignid=20682878391&gbraid=0AAAAADrbLlhACTW_1qMHcIyEKL29vXxCE&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNZIW0HDyogUVAa0LEuEqIPE6k3Nx6h3xoEP_TbeWrkrutTKSRaqHf4aAlsIEALw_wcB) |
 | [PCB](https://www.jlcpcb.com/) | the starbie | 1 | $10.00 | $10.00 | [JLC](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$23.99** | — |
-| **Tax & shipping** | — | — | — | **$0.40** | — |
-| **Total** | — | — | — | **$24.39** | — |
+| **Tax & shipping** | — | — | — | **$0.60** | — |
+| **Total** | — | — | — | **$24.59** | — |
 
-$5.61 left of the tier's funding.
+$5.41 left of the tier's funding.
