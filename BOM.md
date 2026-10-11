@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | the starbie | 1 | $0.05 | $0.05 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | the starbie | 1 | $10.00 | $10.00 | [JLC](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$26.29** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.29** | — |
+| **Tax & shipping** | — | — | — | **$4.50** | — |
+| **Total** | — | — | — | **$30.79** | — |
 
-$3.71 left of the tier's funding.
+**$0.79 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
