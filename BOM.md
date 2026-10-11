@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.americanloopers.com/products/resistor-10k-ohm?variant=41187979788393&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4VZZpYUfRKCbqIdtCVOjeBEukuuM9ssWHkhUWcLF4yVjcf8ehaZCy4&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c) | the starbie | 1 | $0.20 | $0.20 | [american loopers](https://www.americanloopers.com/products/resistor-10k-ohm?variant=41187979788393&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4VZZpYUfRKCbqIdtCVOjeBEukuuM9ssWHkhUWcLF4yVjcf8ehaZCy4&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c) |
 | [PCB](https://www.jlcpcb.com/) | the starbie | 1 | $10.00 | $10.00 | [JLC](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$25.53** | — |
-| **Tax & shipping** | — | — | — | **$0.60** | — |
-| **Total** | — | — | — | **$26.13** | — |
+| **Tax & shipping** | — | — | — | **$3.00** | — |
+| **Total** | — | — | — | **$28.53** | — |
 
-$3.87 left of the tier's funding.
+$1.47 left of the tier's funding.
