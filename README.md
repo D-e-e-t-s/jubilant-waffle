@@ -37,12 +37,12 @@ The image above represents the bill of materials for my project.
 | Part | Qty | Unit | Total | Vendor |
 | :--- | :---: | :---: | :---: | :--- |
 | **XIAO ESP32 C3**<br>_the starbie_ | 1 | $5.00 | $5.00 | [SEEED](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| **0.96 OLED**<br>_the starbie_ | 1 | $3.25 | $3.25 | Buy & Display |
-| **MPU6050**<br>_the starbie_ | 1 | $1.97 | $1.97 | Alibaba |
-| **DHT11**<br>_the starbie_ | 1 | $1.51 | $1.51 | RobotShop |
-| **Switches**<br>_the starbie_ | 4 | $0.40 | $1.60 | mechanical keyboards |
-| **Keycaps**<br>_the starbie_ | 4 | $0.50 | $2.00 | Adafruit |
-| **10k Resistor**<br>_the starbie_ | 1 | $0.20 | $0.20 | american loopers |
-| **PCB**<br>_the starbie_ | 1 | $10.00 | $10.00 | JLC |
+| **0.96 OLED**<br>_the starbie_ | 1 | $3.25 | $3.25 | [Buy & Display](https://www.buydisplay.com/i2c-yellow-blue-0-96-inch-oled-display-128x64-arduino-raspberry-pi?srsltid=AU7gw4Us8HCG07aa_U77P5M7IeI37yqj1hleT46jM1SQ8ud3P2FK_a0UiIU) |
+| **MPU6050**<br>_the starbie_ | 1 | $1.97 | $1.97 | [Alibaba](https://www.alibaba.com/pla/GY-521-MPU-6050-MPU6050-Module-Black-Tantalum_1600213865732.html?mark=google_shopping&biz=pla&searchText=development+boards+kits&product_id=1600213865732&pcy=us_en&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=23943467922&adgrp=200057618520&fditm=&tgt=pla-2486796178070&locintrst=&locphyscl=9010778&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=813217375325&plcmnt=&plcmntcat=&aceid=&position=&gad_source=4&gad_campaignid=23943467922&gbraid=0AAAAAD8m77pDztas6Z3pfTujtsSMY8q-Z&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNZV6KNs3BefRGrQFq_bAq4gqdX8o86dh-3oM10WZ6rZmdwj93Q0SokaAle7EALw_wcB) |
+| **DHT11**<br>_the starbie_ | 1 | $1.51 | $1.51 | [RobotShop](https://www.robotshop.com/products/dht11-temperature-humidity-sensor-module-breakout?gad_source=4&gad_campaignid=20145188159&gbraid=0AAAAAD_f_xwvx7Hp_o3AEYOLOBA7buNlX&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNY6uNE4XTcR25dXlnremtYj_LWe2nqZAIJs_rnb5TkNCBKVBxbT_6saAgUtEALw_wcB) |
+| **Switches**<br>_the starbie_ | 4 | $0.40 | $1.60 | [mechanical keyboards](https://mechanicalkeyboards.com/search?q=MX+switch&options%5Bprefix%5D=last) |
+| **Keycaps**<br>_the starbie_ | 4 | $0.50 | $2.00 | [Adafruit](https://www.adafruit.com/product/5174) |
+| **10k Resistor**<br>_the starbie_ | 1 | $0.20 | $0.20 | [american loopers](https://www.americanloopers.com/products/resistor-10k-ohm?variant=41187979788393&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4VZZpYUfRKCbqIdtCVOjeBEukuuM9ssWHkhUWcLF4yVjcf8ehaZCy4&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c) |
+| **PCB**<br>_the starbie_ | 1 | $10.00 | $10.00 | [JLC](https://www.jlcpcb.com/) |
 | **Tax & shipping**<br>_for the whole order_ | - | - | $3.00 | - |
 
