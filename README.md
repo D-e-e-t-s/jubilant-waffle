@@ -36,7 +36,7 @@ The image above represents the bill of materials for my project.
 
 | Part | Qty | Unit | Total | Vendor |
 | :--- | :---: | :---: | :---: | :--- |
-| **XIAO ESP32 C3**<br>_the starbie_ | 1 | $5.00 | $5.00 | SEEED |
+| **XIAO ESP32 C3**<br>_the starbie_ | 1 | $5.00 | $5.00 | [SEEED](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | **0.96 OLED**<br>_the starbie_ | 1 | $3.25 | $3.25 | Buy & Display |
 | **MPU6050**<br>_the starbie_ | 1 | $1.97 | $1.97 | Alibaba |
 | **DHT11**<br>_the starbie_ | 1 | $1.51 | $1.51 | RobotShop |
