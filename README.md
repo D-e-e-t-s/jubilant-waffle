@@ -30,10 +30,19 @@ To get a better view of how the PCB would look like I went to 3D viewer and view
 Now that my PCB and schematic were finished I moved onto arduino and worked on the code for my starbie. I had to download some libraries first and install the file in the guide then open it in arduino. After that I started editing the code as suited to my needs. 
 
 [{bom}.csv](https://github.com/user-attachments/files/33570499/bom.csv)
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"J1","1","Conn_01x08_Pin","","","","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical",""
-"J2","1","Conn_01x04_Pin","","","","Imported Parts:Display_128x64_096_I2C",""
-"R1","1","10k","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",""
-"SW1,SW2","2","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
-"U1","1","XIAO-ESP32-C3-SMD","","","","Imported Parts:XIAO-ESP32-C3-SMD",""
-"U2","1","DHT11","","","","Sensor:Aosong_DHT11_5.5x12.0_P2.54mm","http://akizukidenshi.com/download/ds/aosong/DHT11.pdf"
+<img width="892" height="570" alt="image" src="https://github.com/user-attachments/assets/568ea38c-3489-4fa7-ab41-d970ac39ca2c" />
+
+The image above represents the bill of materials for my project.
+
+| Part | Qty | Unit | Total | Vendor |
+| :--- | :---: | :---: | :---: | :--- |
+| **XIAO ESP32 C3**<br>_the starbie_ | 1 | $5.00 | $5.00 | SEEED |
+| **0.96 OLED**<br>_the starbie_ | 1 | $3.25 | $3.25 | Buy & Display |
+| **MPU6050**<br>_the starbie_ | 1 | $1.97 | $1.97 | Alibaba |
+| **DHT11**<br>_the starbie_ | 1 | $1.51 | $1.51 | RobotShop |
+| **Switches**<br>_the starbie_ | 4 | $0.40 | $1.60 | mechanical keyboards |
+| **Keycaps**<br>_the starbie_ | 4 | $0.50 | $2.00 | Adafruit |
+| **10k Resistor**<br>_the starbie_ | 1 | $0.20 | $0.20 | american loopers |
+| **PCB**<br>_the starbie_ | 1 | $10.00 | $10.00 | JLC |
+| **Tax & shipping**<br>_for the whole order_ | - | - | $3.00 | - |
+
