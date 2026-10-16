@@ -29,3 +29,11 @@ To get a better view of how the PCB would look like I went to 3D viewer and view
 
 Now that my PCB and schematic were finished I moved onto arduino and worked on the code for my starbie. I had to download some libraries first and install the file in the guide then open it in arduino. After that I started editing the code as suited to my needs. 
 
+[{bom}.csv](https://github.com/user-attachments/files/33570499/bom.csv)
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"J1","1","Conn_01x08_Pin","","","","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical",""
+"J2","1","Conn_01x04_Pin","","","","Imported Parts:Display_128x64_096_I2C",""
+"R1","1","10k","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",""
+"SW1,SW2","2","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
+"U1","1","XIAO-ESP32-C3-SMD","","","","Imported Parts:XIAO-ESP32-C3-SMD",""
+"U2","1","DHT11","","","","Sensor:Aosong_DHT11_5.5x12.0_P2.54mm","http://akizukidenshi.com/download/ds/aosong/DHT11.pdf"
